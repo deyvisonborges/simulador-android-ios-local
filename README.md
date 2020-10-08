@@ -1,5 +1,7 @@
 ### Simulador do expo em localhost
 
+![Alt text](https://imgur.com/a8vWF3a.png)
+
 
 Instale as dependências
 ```bash
